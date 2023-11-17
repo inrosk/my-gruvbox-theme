@@ -1194,7 +1194,7 @@ button.color {
 }
 
 *:visited {
-  color: "#d3869b";
+  color: #d3869b;
 }
 
 button.link:link, button.link:link:focus, button.link:link:hover, button.link:link:active {
@@ -1202,7 +1202,7 @@ button.link:link, button.link:link:focus, button.link:link:hover, button.link:li
 }
 
 button.link:visited, button.link:visited:focus, button.link:visited:hover, button.link:visited:active {
-  color: "#d3869b";
+  color: #d3869b;
 }
 
 button.link > label {
